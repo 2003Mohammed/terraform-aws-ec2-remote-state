@@ -17,7 +17,7 @@ This project is intentionally kept linear and beginner-friendly while following 
 # Repository Structure
 
 
-
+```
 terraform-aws-ec2-remote-state/
 │
 ├── backend.tf          # Remote state configuration (S3)
@@ -28,7 +28,7 @@ terraform-aws-ec2-remote-state/
 ├── outputs.tf          # Output values
 ├── README.md           # Project documentation
 └── .gitignore          # Terraform ignored files
-
+```
 ---
 
 ## ⚙️ Prerequisites
